@@ -38,3 +38,9 @@ This project features a complete MCU system built around a custom single-cycle C
 - SignalTap Logic Analyzer for on-board hardware verification  
 - Altera DE2-115 FPGA (Cyclone IV) for deployment and testing
 
+### Target FPGA Platform
+
+The design was implemented and tested on the **Altera DE2-115 FPGA development board**
+![Altera DE2-115 FPGA Board](Altera-DE2-115-FPGA-board.png)
+
+
